@@ -2,12 +2,12 @@
 Welcome to my GIS Maps Catalog repository! This repository serves as a comprehensive collection of various GIS (Geographic Information System) maps that I have created. Each map in this catalog is organized into its own directory, containing the map file and a README file that provides detailed information about the map.
 
 ## Maps included 
-- Life expectancy map US STATES
-- Average hospital length of stay standard rates New York counties 
-- Califications map RD PROVINCES
-- Rural conectivity map RD regions
-- Hospitals identification RD regions
-- Enviromental index ITALY provinces
+- Life expectancy map (US states)
+- Average hospital length of stay standard rates (New York counties)
+- Qualifications map (RD provinces)
+- Rural connectivity map (RD regions)
+- Hospitals identification (RD regions)
+- Environmental index (ITALY provinces)
   
 
 ## How to Use
