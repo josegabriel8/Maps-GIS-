@@ -1,4 +1,4 @@
-# Difference in years of life expectancy at birth e(0) between White and Black population in USA by state, 2001
+# Map title: Difference in years of life expectancy at birth e(0) between White and Black population in USA by state, 2001
 
 In this map, we can see that the differences in life expectancy between the White and Black populations in the USA are more predominant in some states than others. 
 
