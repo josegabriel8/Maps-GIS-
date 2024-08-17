@@ -1,5 +1,5 @@
 # GIS Maps Catalog
-Welcome to the GIS Maps Catalog repository! This repository serves as a comprehensive collection of various GIS (Geographic Information System) maps that I have created. Each map in this catalog is organized into its own directory, containing the map file and a README file that provides detailed information about the map.
+Welcome to my GIS Maps Catalog repository! This repository serves as a comprehensive collection of various GIS (Geographic Information System) maps that I have created. Each map in this catalog is organized into its own directory, containing the map file and a README file that provides detailed information about the map.
 
 ## Maps included 
 - Life expectancy map US STATES
