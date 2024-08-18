@@ -9,5 +9,13 @@ This map includes several elements:
 
 This map was created to analyze the socioeconomic challenges faced by the region. It highlights that connectivity is a significant issue, as the provinces, despite being geographically close, are disconnected due to mountain ranges that separate them, making communication between the north and south difficult. The map also shows isolated communities, often near these mountainous areas, which require public policy interventions.
 
-## Source: Ministry of Economy, Dominican Republic
+
+
+![Picture1](https://github.com/user-attachments/assets/bc2c972d-c03c-4832-9930-31f46c267b5d)
+
+
+
+
+## Source: 
+Ministry of Economy, Dominican Republic
 
